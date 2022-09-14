@@ -17,7 +17,7 @@
 
 package org.apache.commons.csv;
 
-import static src.org.apache.commons.csv.Constants.BACKSLASH;
+import static org.apache.commons.csv.Constants.BACKSLASH;
 import static org.apache.commons.csv.Constants.COMMA;
 import static org.apache.commons.csv.Constants.COMMENT;
 import static org.apache.commons.csv.Constants.CR;

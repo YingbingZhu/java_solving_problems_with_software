@@ -1,6 +1,6 @@
 package week2.StringThirdAssignments;
 
-import src.edu.duke.*;
+import edu.duke.*;
 
 public class Part1 {
     /**

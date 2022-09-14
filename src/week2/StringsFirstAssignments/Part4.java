@@ -1,5 +1,5 @@
 package week2.StringsFirstAssignments;
-import src.edu.duke.*;
+import edu.duke.*;
 
 public class Part4 {
     public void findYoutube(String url) {

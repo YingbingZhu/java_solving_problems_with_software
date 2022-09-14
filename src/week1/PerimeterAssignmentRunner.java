@@ -1,6 +1,6 @@
 package week1;
 
-import src.edu.duke.*;
+import edu.duke.*;
 import java.io.File;
 
 public class PerimeterAssignmentRunner {

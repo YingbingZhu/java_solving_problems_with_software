@@ -1,7 +1,7 @@
 package edu.duke;
 
 import java.util.ArrayList;
-import src.edu.duke.FileResource;
+import edu.duke.FileResource;
 
 
 /**
